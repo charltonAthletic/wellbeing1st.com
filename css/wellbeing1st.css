@@ -723,9 +723,18 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 }
 .main .logo.cursive{
     font-family: 'Gloria Hallelujah',cursive;
-    font-size: 82px;
+    font-size: 6.5rem;
     
 }
+
+.cursive2{
+    font-family: 'Linden Hill', serif;
+    font-size: 4.8rem;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
 .main .content{
     position: relative;
     z-index: 4;
@@ -772,7 +781,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 }
 
 .footer{
-    position: relative;
+    position: absolute;
     bottom: 20px;
     right: 0px;
     width: 100%;
